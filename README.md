@@ -58,6 +58,38 @@ During the deployment process, some ports and disk volumes will be automatically
 
 ---
 
+## BioPortainer Documentation <a name="Documentation-BioPortainer" /> [[menu]](#menu)
+
+Because BioPortainer is a Portainer fork, general project information can be found in the original [Portainer Documentation](https://portainer.readthedocs.io/en/stable/). A fork of the Portainer documentation with more details on the changes implemented in BioPortainer can be found at:
+
+
+---
+
+## BioPortainer Screenshots <a name="Screenshot-BioPortainer" /> [[menu]](#menu)
+
+
+Learn about the main features of BioPortainer through screeshots of its graphical interface. Access the screenshots [here](https://github.com/LaBiOS/BioPortainer/blob/master/SCREENSHOT.md).
+
+---
+
+## BioPortainer Video Tutorial <a name="Video-BioPortainer" /> [[menu]](#menu)
+
+See BioPortainer installation and setup video tutorials [here](https://github.com/LaBiOS/BioPortainer/blob/master/VIDEOS.md).
+
+
+---
+
+## BioPortainer Lab's <a name="Test-BioPortainer" /> [[menu]](#menu)
+
+We offer different scenarios of installation of BioPortainer so that the user can test its functionalities. Learn more by going [here](https://github.com/LaBiOS/BioPortainer/blob/master/LABs.md).
+
+
+---
+
+## Author <a name="Author" /> [[menu]](#menu)
+
+Current development is led by Fabiano Menegidio.
+
 ## Contributing <a name="Contributing" /> [[menu]](#menu)
 
 You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
