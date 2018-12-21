@@ -44,7 +44,7 @@ During the deployment process, some ports and disk volumes will be automatically
 ## BioPortainer Workbench User Manual <a name="Documentation-BioPortainer" /> [[menu]](#menu)
 
 
-For more information on different methods of installing and using the BioPortainer Workbench, visit the BioPortainer [Workbench User Manual](https://github.com/BioPortainer/Repository/blob/master/Manual/BioPortainer%20Workbench%20User%20Manual%20-%20Final.pdf).
+For more information on different methods of installing and using the BioPortainer Workbench, visit the [BioPortainer Workbench User Manual](https://github.com/BioPortainer/Repository/blob/master/Manual/BioPortainer%20Workbench%20User%20Manual%20-%20Final.pdf).
 
 
 ---
