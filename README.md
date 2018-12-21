@@ -21,10 +21,7 @@ The third component of the image is the ***BioPortainer Repository***, consistin
 # MENU <a name="menu" />
 
 - [BioPortainer Deploy](#Deploy-BioPortainer)
-- [BioPortainer Documentation](#Documentation-BioPortainer)
-- [BioPortainer Screenshot](#Screenshot-BioPortainer)
-- [BioPortainer Video Tutorial](#Video-BioPortainer)
-- [BioPortainer Lab's](#Test-BioPortainer)
+- [BioPortainer Workbench User Manual](#Documentation-BioPortainer)
 
 ---
 
@@ -44,30 +41,10 @@ During the deployment process, some ports and disk volumes will be automatically
 
 ---
 
-## BioPortainer Documentation <a name="Documentation-BioPortainer" /> [[menu]](#menu)
-
-Because BioPortainer is a Portainer fork, general project information can be found in the original [Portainer Documentation](https://portainer.readthedocs.io/en/stable/). A fork of the Portainer documentation with more details on the changes implemented in BioPortainer can be found at:
+## BioPortainer Workbench User Manual <a name="Documentation-BioPortainer" /> [[menu]](#menu)
 
 
----
-
-## BioPortainer Screenshots <a name="Screenshot-BioPortainer" /> [[menu]](#menu)
-
-
-Learn about the main features of BioPortainer through screeshots of its graphical interface. Access the screenshots [here](https://github.com/LaBiOS/BioPortainer/blob/master/SCREENSHOT.md).
-
----
-
-## BioPortainer Video Tutorial <a name="Video-BioPortainer" /> [[menu]](#menu)
-
-See BioPortainer installation and setup video tutorials [here](https://github.com/LaBiOS/BioPortainer/blob/master/VIDEOS.md).
-
-
----
-
-## BioPortainer Lab's <a name="Test-BioPortainer" /> [[menu]](#menu)
-
-We offer different scenarios of installation of BioPortainer so that the user can test its functionalities. Learn more by going [here](https://github.com/LaBiOS/BioPortainer/blob/master/LABs.md).
+For more information on different methods of installing and using the BioPortainer Workbench, visit the BioPortainer [Workbench User Manual](https://github.com/BioPortainer/Repository/blob/master/Manual/BioPortainer%20Workbench%20User%20Manual%20-%20Final.pdf).
 
 
 ---
