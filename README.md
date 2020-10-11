@@ -1,7 +1,5 @@
 [![DOI](https://zenodo.org/badge/151837159.svg)](https://zenodo.org/badge/latestdoi/151837159)
 
-<p align="center"><img src="https://raw.githubusercontent.com/LaBiOS/BioPortainer/master/builder/bioportainer/public/images/logo_alt.png"></p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/BioPortainer/BioPortainer/master/images/logo.png"></p>
   
   
